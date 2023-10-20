@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/ntokozo_sibiya" target="blank"><img src="https://img.shields.io/twitter/follow/ntokozo_sibiya?logo=twitter&style=for-the-badge" alt="ntokozo_sibiya" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript frameworks**
+- 🌱 I’m currently learning ** Version Control**
 
 - 📫 How to reach me **ozo.sibiya@gmail.com**
 
